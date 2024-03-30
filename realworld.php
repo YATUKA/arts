@@ -388,7 +388,7 @@
         <div class="post-box tech">
             <img src="images/design.png" alt="" class="post-img">
             <h2 class="category">DESIGN</h2>
-            <a href="#" class="post-title">JAMAICA PATATOIS</a>
+            <a href="#" class="post-title">JAMAICA frank PATATOIS</a>
             <span class="post-date">12 Feb 2024</span>
             <p class="post-description"></p>
             <div class="profile">
